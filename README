@@ -1,0 +1,4 @@
+This is simply a mash of two libraries for Arduino, The included 'LiquidCrystal' and propriety library from Noritake (included in here)
+
+It allows you to send Noritake specific commands to the display to enable brightness levels etc.
+
